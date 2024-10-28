@@ -1,6 +1,8 @@
 # Weighty 
 
-Weighty uses the [hevy](https://hevy.com/) workout app's CSV export to provide stats about your workouts.
+Weighty is a workout stats aggregator for [hevy](https://hevy.com/) based on it's CSV export.
+
+![Screenshot](./screenshot.png)
 
 ## Usage
 
